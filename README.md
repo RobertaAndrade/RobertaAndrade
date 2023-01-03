@@ -1,6 +1,6 @@
 ### Hi there 👋
 
--  I’m currently learning Python
+-  I’m currently learning Python and French
 -  I’m looking to collaborate on projects soon
 -  I’m looking for help with illustrations
 -  Ask me about anything, if i know i'll help
